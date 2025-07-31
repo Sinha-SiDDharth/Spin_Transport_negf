@@ -48,7 +48,7 @@ jupyter notebook
 
 ---
 
-## 👨‍🔬 Author
+##  Author
 
 Siddharth Sinha  
 B.Tech Engineering Physics  
