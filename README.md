@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks implementing basic spin transport sim
 
 ---
 
-## 📒 Contents
+## Contents
 
 ### `1_ordinarySpinVALVES.ipynb`
 Simulates a simple spin valve with spin-polarized ferromagnetic contacts connected to a single-level non-magnetic channel.
@@ -24,7 +24,7 @@ Simulates a four-terminal non-local spin valve geometry using NEGF.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 These notebooks require:
 
@@ -41,7 +41,7 @@ jupyter notebook
 
 ---
 
-## 📚 Reference
+## Reference
 
 - Supriyo Datta, *Lessons from Nanoelectronics: Part B – Quantum Transport*, World Scientific, Chapter 23.
 - Numerical implementation inspired by the MATLAB codes from the book.
